@@ -16,6 +16,7 @@
 2. The combo of dstport and protocol will tell tags , those tags have been handled in the dataset.
 3. The Untagged count are those enteries whose dstport,protocol is not found in the LookupTable , thus untagged.
 4. The count for dstport,protocol is not total count from logs but the ones those are getting the tags hit via lookup.
+5. Some protocols numbers contains no <BLANK> Keyword , so used description in place of those , like 61,68.
 
 # Low Level Design of the Application 
 
