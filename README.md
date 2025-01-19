@@ -25,7 +25,7 @@
 1. Developed in VSC Environment.
 2. Just download this folder or clone this repo.
 3. Go to the Folder "Illumino SankalpAwasthi" and Open in side explorer.
-4. Run the index.py file (Dataset folder should be there as well, contains both db1,db2 txt files)[to show simple execution followed the function in same file otherwise rom SDLC POV , it should be all function in separate py fikle and importing and calling them from main file]
+4. Run the index.py file (Dataset folder should be there as well, contains both db1,db2 txt files)[to show simple execution followed the function in same file otherwise rom SDLC POV , it should be all function in separate py fikle and importing and calling them from main file].
 5. Output.txt will be generated in the Output folder , Location of output = "Output/output.txt".
 
 
