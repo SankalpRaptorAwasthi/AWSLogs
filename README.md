@@ -26,6 +26,6 @@
 2. Just download this folder or clone this repo
 3. go to the Folder "Illumino SankalpAwasthi" and Open in side explorer
 4. run the index.py file (Dataset folder should be there as well, contains both db1,db2 txt files)[to show simple execution followed the function in same file otherwise rom SDLC POV , it should be all function in separate py fikle and importing and calling them from main file]
-5. Output.txt will be generated in the Output folder , also in same space where index.py is stored
+5. Output.txt will be generated in the Output folder , Location of output = "Output/output.txt"
 
 
